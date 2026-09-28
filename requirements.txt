@@ -1,9 +1,3 @@
-langchain
-langgraph
-langchain-groq
-groq
-psycopg2-binary
 streamlit
-tavily-python
-requests
-python-dotenv
+pandas
+
